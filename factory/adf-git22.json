@@ -1,0 +1,9 @@
+{
+	"name": "adf-git22",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a4d909cd-1ff1-4553-af3e-972ab51e28f3",
+		"tenantId": "5c1033f0-d61c-47da-812a-5e1cd46898cb"
+	}
+}
